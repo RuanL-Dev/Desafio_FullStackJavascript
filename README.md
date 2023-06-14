@@ -6,7 +6,7 @@ To get started:
 
 - Install dependencies in each of the following directories: `./`, `./frontend`, `./backend`, `./payment-api`.
 - Run `npm start` in the project's root directory will start all components of the application. But we do need to one more step below:
-- Run `npm build` and `npm serve` in the frontend project
+- Run `npm run build` and `npm serve` in the frontend project
 
 If there are any errors you may need to change `./.env` to pick unused ports.
 
